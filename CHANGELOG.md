@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/timoa/terraform-module-aws-template/compare/v1.0.1...v1.1.0) (2022-04-13)
+
+
+### Features
+
+* **release:** fix tags format ([c06ca84](https://github.com/timoa/terraform-module-aws-template/commit/c06ca84c479d59ee8e404651752f1127119ce775))
+
 ## [1.0.1](https://github.com/timoa/terraform-module-aws-template/compare/v1.0.0...v1.0.1) (2022-04-13)
 
 
