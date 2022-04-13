@@ -1,6 +1,6 @@
 locals {
   common_tags = merge(var.tags, {
-    "Project" = var.namespace,
+    "Project"     = var.namespace,
     "Environment" = var.stage
   })
 }
