@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/timoa/terraform-module-aws-template/compare/1.0.0...1.0.1) (2022-04-13)
+
+
+### Bug Fixes
+
+* **lint:** fix Terraform Lint issues ([fa5ae09](https://github.com/timoa/terraform-module-aws-template/commit/fa5ae09ecb5fd759e2f3d42a47a1e8c1271f3e82))
+
 # 1.0.0 (2022-04-13)
 
 
