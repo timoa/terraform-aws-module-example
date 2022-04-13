@@ -1,5 +1,9 @@
 # Terraform module template
 
+[![Latest Release][release-badge]][release-url]
+[![Build Status][github-badge]][github-url]
+[![License][license-badge]][license-url]
+
 A Terraform module uses as a template to start new module.
 
 It includes all the automation (versioning, providers update, lint, security) and best practices from HashiCorp.
@@ -84,3 +88,10 @@ No modules.
 |------|-------------|
 | <a name="output_available_zones"></a> [available\_zones](#output\_available\_zones) | Return the list of available zones |
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+
+[github-badge]: https://github.com/timoa/terraform-module-aws-template/workflows/Terraform/badge.svg
+[github-url]: https://github.com/timoa/terraform-module-aws-template/actions?query=workflow%3ATerraform
+[release-badge]: https://img.shields.io/github/release/timoa/terraform-module-aws-template.svg
+[release-url]: https://github.com/timoa/terraform-module-aws-template/releases/latest
+[license-badge]: https://img.shields.io/github/license/timoa/terraform-module-aws-template.svg
+[license-url]: https://github.com/timoa/terraform-module-aws-template/blob/main/LICENSE
