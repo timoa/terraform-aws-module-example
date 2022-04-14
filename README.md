@@ -21,7 +21,7 @@ If you want to use this module inside your project, you can use the following co
 
 ```bash
 module "module-template" {
-  source = "git::https://github.com/timoa/terraform-module-aws-template.git?ref=tags/0.0.2"
+  source = "git::https://github.com/timoa/terraform-module-aws-example.git?ref=tags/0.0.2"
 
   # Required
   region    = "us-east-1"
@@ -94,12 +94,12 @@ No modules.
 | <a name="output_available_zones"></a> [available\_zones](#output\_available\_zones) | Return the list of available zones |
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 
-[github-badge]: https://github.com/timoa/terraform-module-aws-template/workflows/Terraform/badge.svg
-[github-url]: https://github.com/timoa/terraform-module-aws-template/actions?query=workflow%3ATerraform
-[release-badge]: https://img.shields.io/github/release/timoa/terraform-module-aws-template.svg
-[release-url]: https://github.com/timoa/terraform-module-aws-template/releases/latest
-[license-badge]: https://img.shields.io/github/license/timoa/terraform-module-aws-template.svg
-[license-url]: https://github.com/timoa/terraform-module-aws-template/blob/main/LICENSE
+[github-badge]: https://github.com/timoa/terraform-module-aws-example/workflows/Terraform/badge.svg
+[github-url]: https://github.com/timoa/terraform-module-aws-example/actions?query=workflow%3ATerraform
+[release-badge]: https://img.shields.io/github/release/timoa/terraform-module-aws-example.svg
+[release-url]: https://github.com/timoa/terraform-module-aws-example/releases/latest
+[license-badge]: https://img.shields.io/github/license/timoa/terraform-module-aws-example.svg
+[license-url]: https://github.com/timoa/terraform-module-aws-example/blob/main/LICENSE
 [pre-commit-url]: https://pre-commit.com/
 [semantic-release-url]: https://semantic-release.gitbook.io/semantic-release/
 [renovate-url]: https://www.whitesourcesoftware.com/free-developer-tools/renovate/
