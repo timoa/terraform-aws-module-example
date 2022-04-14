@@ -1,4 +1,4 @@
-# Terraform module template
+# Terraform module example
 
 [![Latest Release][release-badge]][release-url]
 [![Build Status][github-badge]][github-url]
