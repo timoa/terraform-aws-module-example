@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/timoa/terraform-module-aws-example/compare/v1.1.0...v1.1.1) (2022-04-14)
+
+
+### Bug Fixes
+
+* **project:** change project name ([69353e8](https://github.com/timoa/terraform-module-aws-example/commit/69353e822004fa167d2fc223f8afd1edaac201eb))
+
 # [1.1.0](https://github.com/timoa/terraform-module-aws-example/compare/v1.0.1...v1.1.0) (2022-04-13)
 
 
