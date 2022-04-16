@@ -4,7 +4,7 @@
 | Name | Version |
 |------|---------|
 | <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 1.0 |
-| <a name="requirement_aws"></a> [aws](#requirement\_aws) | 4.9.0 |
+| <a name="requirement_aws"></a> [aws](#requirement\_aws) | 4.10.0 |
 
 ## Modules
 
@@ -14,7 +14,7 @@ No modules.
 
 | Name | Type |
 |------|------|
-| [aws_availability_zones.available](https://registry.terraform.io/providers/hashicorp/aws/4.9.0/docs/data-sources/availability_zones) | data source |
+| [aws_availability_zones.available](https://registry.terraform.io/providers/hashicorp/aws/4.10.0/docs/data-sources/availability_zones) | data source |
 
 ## Inputs
 
