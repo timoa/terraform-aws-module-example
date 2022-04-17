@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/timoa/terraform-module-aws-example/compare/v1.2.0...v1.2.1) (2022-04-17)
+
+
+### Bug Fixes
+
+* **cicd:** fix the code review workflow + rename files ([0602704](https://github.com/timoa/terraform-module-aws-example/commit/06027048de375c847c0a38f63cd54577cb2184f4))
+
 # [1.2.0](https://github.com/timoa/terraform-module-aws-example/compare/v1.1.1...v1.2.0) (2022-04-14)
 
 
