@@ -1,4 +1,5 @@
 {
+  "repositoryUrl": "https://github.com/timoa/terraform-module-aws-example.git",
   "branches": [
     "main"
   ],
