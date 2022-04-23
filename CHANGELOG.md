@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/timoa/terraform-aws-module-example/compare/v1.2.1...v1.2.2) (2022-04-23)
+
+
+### Bug Fixes
+
+* **lint:** fix TFLint minor issue ([437cc66](https://github.com/timoa/terraform-aws-module-example/commit/437cc6679d082dd58d9822f69e285ea683a905b8))
+
 ## [1.2.1](https://github.com/timoa/terraform-aws-module-example/compare/v1.2.0...v1.2.1) (2022-04-17)
 
 
