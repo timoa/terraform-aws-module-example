@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/timoa/terraform-aws-module-example/compare/v1.2.3...v1.2.4) (2022-05-05)
+
+
+### Bug Fixes
+
+* **cicd:** force checkout of the main branch during release to get latest changes ([fc17f04](https://github.com/timoa/terraform-aws-module-example/commit/fc17f04d7643ce0e479a5edc0157387d71b0ae19))
+
 ## [1.2.3](https://github.com/timoa/terraform-aws-module-example/compare/v1.2.2...v1.2.3) (2022-05-02)
 
 ## [1.2.2](https://github.com/timoa/terraform-aws-module-example/compare/v1.2.1...v1.2.2) (2022-04-23)
