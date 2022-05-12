@@ -1,3 +1,10 @@
+## [1.2.6](https://github.com/timoa/terraform-aws-module-example/compare/v1.2.5...v1.2.6) (2022-05-12)
+
+
+### Bug Fixes
+
+* **cicd:** add missing env vars on the code review jobs for TFLint and TFSec ([9725f9e](https://github.com/timoa/terraform-aws-module-example/commit/9725f9ef51b2f8dfb1fa9577b0b3672f18b37661))
+
 ## [1.2.5](https://github.com/timoa/terraform-aws-module-example/compare/v1.2.4...v1.2.5) (2022-05-12)
 
 ## [1.2.4](https://github.com/timoa/terraform-aws-module-example/compare/v1.2.3...v1.2.4) (2022-05-05)
