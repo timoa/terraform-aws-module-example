@@ -1,3 +1,10 @@
+## [1.2.7](https://github.com/timoa/terraform-aws-module-example/compare/v1.2.6...v1.2.7) (2022-06-21)
+
+
+### Bug Fixes
+
+* **cicd:** update the label name for the dependencies ([cbee2bb](https://github.com/timoa/terraform-aws-module-example/commit/cbee2bb46dff936e32e47f1bf0b3132466a81bb8))
+
 ## [1.2.6](https://github.com/timoa/terraform-aws-module-example/compare/v1.2.5...v1.2.6) (2022-05-12)
 
 
