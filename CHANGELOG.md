@@ -1,3 +1,10 @@
+## [1.2.8](https://github.com/timoa/terraform-aws-module-example/compare/v1.2.7...v1.2.8) (2023-04-17)
+
+
+### Bug Fixes
+
+* **cicd:** fix Terraform install ([559d522](https://github.com/timoa/terraform-aws-module-example/commit/559d522807a116023c92082f7eda06d0c8e4fa8f))
+
 ## [1.2.7](https://github.com/timoa/terraform-aws-module-example/compare/v1.2.6...v1.2.7) (2022-06-21)
 
 
