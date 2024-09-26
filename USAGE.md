@@ -23,7 +23,7 @@ No modules.
 | <a name="input_namespace"></a> [namespace](#input\_namespace) | Project name that will be use to identifiy the resources | `string` | `"my-project"` | no |
 | <a name="input_stage"></a> [stage](#input\_stage) | Stage/environment name to tag and suffix the infrastructure composants | `string` | `"dev"` | no |
 | <a name="input_region"></a> [region](#input\_region) | Default Region | `string` | `"us-east-1"` | no |
-| <a name="input_tags"></a> [tags](#input\_tags) | Default tags to associate to these resources | `map(string)` | <pre>{<br>  "BusinessUnit": "My Company",<br>  "Team": "DevOps",<br>  "Terraform": "true"<br>}</pre> | no |
+| <a name="input_tags"></a> [tags](#input\_tags) | Default tags to associate to these resources | `map(string)` | <pre>{<br/>  "BusinessUnit": "My Company",<br/>  "Team": "DevOps",<br/>  "Terraform": "true"<br/>}</pre> | no |
 
 ## Outputs
 
